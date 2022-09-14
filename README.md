@@ -2,7 +2,7 @@
 
 ## Assignment
 
-Create an applicationthat can be used to write, save and delete notes using an Express.js back end and will save and retrieve note data from a JSON file.
+Create an application that can be used to write, save and delete notes using an Express.js back end and will save and retrieve note data from a JSON file.
 
 ## Demo
 
